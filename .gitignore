@@ -1,0 +1,12 @@
+# Alleen de bronbestanden van het pakket; backups, lib en testprojecten blijven lokaal
+*
+!.gitignore
+!LICENSE
+!README.md
+!propadvance.lpk
+!propadvance.pas
+!AdvancedPropertyGridComponent.pas
+!propadvance.lrs
+!paneel.lrs
+!resources.res
+!test.res
